@@ -2,7 +2,7 @@
 <div align="center" style="background-color:#000; color:#fff; padding: 20px; border-radius: 12px;">
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">ANDZANI MAVANGWA</span></h1>
-<h3 align="center">💻 An Aspiring Software Developer from South Africa 🇿🇦, passionate about building impactful solutions.</h3>
+<h3 align="center">💻 Full Stack Software Developer from South Africa 🇿🇦, passionate about building impactful solutions.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andzani-singh&label=Profile%20views&color=00BFFF&style=flat" alt="andzani-singh" />
