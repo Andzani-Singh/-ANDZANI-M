@@ -103,15 +103,9 @@
 
 ---
 
-# 📈 Contribution Activity  
+#  Connect With Me  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andzani-Singh&theme=tokyo-night)
-
----
-
-# 📫 Connect With Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-Andzani-Singh-black?style=for-the-badge&logo=github)](https://github.com/Andzani-Singh)
+[![GitHub](https://img.shields.io/badge/GitHub-Andzani--Singh-black?style=for-the-badge&logo=github)](https://github.com/Andzani-Singh)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:andzanimavangwa88@gmail.com)
 
