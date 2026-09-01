@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">MAVANGWA ANDANI SIGNH</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">MAVANGWA ANDZANI SIGNH</span></h1>
 <h3 align="center">💻 Full Stack Software Developer from South Africa 🇿🇦, passionate about building impactful solutions.</h3>  
 
 <p align="center">
