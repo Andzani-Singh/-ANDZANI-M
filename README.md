@@ -1,16 +1,22 @@
-<!-- Profile README: Andzani Mavangwa -->
-<div align="center" style="background-color:#000; color:#fff; padding: 20px; border-radius: 12px;">
-
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">ANDZANI MAVANGWA</span></h1>
-<h3 align="center">💻 Full Stack Software Developer from South Africa 🇿🇦, passionate about building impactful solutions.</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">MAVANGWA ANDANI SIGNH</span></h1>
+<h3 align="center">💻 Full Stack Software Developer from South Africa 🇿🇦, passionate about building impactful solutions.</h3>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andzani-singh&label=Profile%20views&color=00BFFF&style=flat" alt="andzani-singh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Developer;Python+Developer;Data+Analytics;Flutter+Developer;Fullstack+Developer;Web+Developer" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andzani-singh&theme=onedark&no-frame=true&margin-w=10" alt="andzani-singh trophies" />
+  <a href="https://github.com/andzani-singh">
+    <img src="https://img.shields.io/github/followers/andzani-singh?label=Followers&logo=github&style=for-the-badge&color=00C2FF&labelColor=000000"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=andzani-singh">
+    <img src="https://komarev.com/ghpvc/?username=andzani-singh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+  </a>
+  <a href="mailto:andzanimavangwa88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mavangwa-andzani-45934426b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -18,76 +24,112 @@
 
 ### 🌱 About Me  
 
-- 🎓 I’m currently studying **Information Technology (Software Development)**  
-- 💡 I’m currently learning **Flutter, Dart, App Development, and more!**  
-- 🏫 I’m enrolled at **Vaal University of Technology**  
+- 🎓 I'm currently studying **Information Technology (Software Development)**  
+- 💡 I'm currently learning **Flutter, Dart, App Development, and more!**  
+- 🏫 I'm enrolled at **Vaal University of Technology**  
 - 📫 Reach me at **andzanimavangwa88@gmail.com**  
 - ⚡ Fun fact: I love solving coding challenges and exploring new frameworks!
+- 🐍 Python Automation & Data Processing  
+- 📊 Data Cleaning & Data Preparation  
+- 📈 Exploratory Data Analysis (EDA)  
+- 🧠 Machine Learning & Predictive Analytics  
+- 🗃️ SQL Database Querying & Optimization
 
 ---
 
-### 🌍 Connect With Me  
-<div align="center">
+# 🛠️ Tech Stack  
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.linkedin.com/login" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-        <br />
-        <sub style="color:#00BFFF; font-size:14px;">LinkedIn</sub><br />
-        <sub style="color:#ccc;">Andzani Mavangwa</sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="mailto:andzanimavangwa88@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-        <br />
-        <sub style="color:#00BFFF; font-size:14px;">Email</sub><br />
-        <sub style="color:#ccc;">andzanimavangwa88@gmail.com</sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/andzani-singh" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" height="50" />
-        <br />
-        <sub style="color:#00BFFF; font-size:14px;">GitHub</sub><br />
-        <sub style="color:#ccc;">andzani-singh</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+## 💻 Programming & Query Languages  
 
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![PLSQL](https://img.shields.io/badge/plsql-%23B80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-### 🧰 Languages & Tools  
+## 📊 Data Analytics & Visualization  
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 💻 Software Development  
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 🤖 Machine Learning & AI  
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blueviolet?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Analytics-8A2BE2?style=for-the-badge)
+
+---
+
+## 🗄️ Databases & Tools  
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/netbeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics  
+
 <p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="50" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" height="50" /></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" height="50" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></a>
-  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://skillicons.dev/icons?i=plsql" height="50" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="https://skillicons.dev/icons?i=vbnet" height="50" /></a>
-  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" height="50" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="50" /></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" height="50" /></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" height="50" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andzani-singh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=andzani-singh&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andzani-singh&show_icons=true&theme=tokyonight" alt="andzani-singh stats" />
-</p>
+# 📈 Contribution Activity  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andzani-singh&theme=tokyo-night)
 
 ---
 
-✨ *"Code is like art — every line you write paints the future."* ✨
+# 📫 Connect With Me  
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-ANGEL--MAVUYANGWA-black?style=for-the-badge&logo=github)](https://github.com/andzani-singh)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:andzanimavangwa88@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mavangwa-andzani-45934426b/)
+
+---
+
+# 🌟 Why Work With Me?  
+
+✅ Strong problem-solving and debugging skills  
+✅ Passionate about building scalable and efficient software solutions  
+✅ Experience with full-stack development projects  
+✅ Clean and well-documented code practices  
+✅ Focused on continuous learning and mastering new technologies  
+✅ Skilled in data analysis and visualization  
+✅ Skilled with machine learning and predictive analytics  
+✅ Skilled in transforming raw data into actionable insights  
+
+---
+
+
