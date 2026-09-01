@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andzani-singh">
-    <img src="https://img.shields.io/github/followers/andzani-singh?label=Followers&logo=github&style=for-the-badge&color=00C2FF&labelColor=000000"/>
+  <a href="https://github.com/Andzani-Singh">
+    <img src="https://img.shields.io/github/followers/Andzani-Singh?label=Followers&logo=github&style=for-the-badge&color=00C2FF&labelColor=000000"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=andzani-singh">
-    <img src="https://komarev.com/ghpvc/?username=andzani-singh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <a href="https://komarev.com/ghpvc/?username=Andzani-Singh">
+    <img src="https://komarev.com/ghpvc/?username=Andzani-Singh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
   </a>
   <a href="mailto:andzanimavangwa88@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
@@ -97,21 +97,21 @@
 # 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andzani-singh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=andzani-singh&theme=github-dark-blue&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andzani-Singh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Andzani-Singh&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
 # 📈 Contribution Activity  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andzani-singh&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andzani-Singh&theme=tokyo-night)
 
 ---
 
 # 📫 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-ANGEL--MAVUYANGWA-black?style=for-the-badge&logo=github)](https://github.com/andzani-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-ANGEL--MAVUYANGWA-black?style=for-the-badge&logo=github)](https://github.com/Andzani-Singh)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:andzanimavangwa88@gmail.com)
 
