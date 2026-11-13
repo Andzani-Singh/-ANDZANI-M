@@ -216,8 +216,9 @@
 
 - IBM SkillsBuild — Data Science Tools
 - IBM SkillsBuild — Cybersecurity Fundamentals
-- FNB App Academy — Full-Stack Development
-- FNB App Academy — Full-Stack App Development *(in progress)*
+- FNB App Academy 2025  — Full-Stack Development
+- FNB App Academy 2026 — Full-Stack App Development *(in progress)*
+- Cisco Network Academy - Data Analytics Essentials
 
 ---
 
