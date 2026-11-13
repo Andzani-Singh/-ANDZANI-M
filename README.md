@@ -215,17 +215,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andzani-Singh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Andzani-Singh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-
-
----
-
 ## 🌟 What I Bring to a Team
 
 - **Problem-Solving:** Analyze challenges and work toward practical technical solutions.
