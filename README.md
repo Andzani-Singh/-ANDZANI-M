@@ -222,9 +222,7 @@
   <img height="170" src="https://streak-stats.demolab.com?user=Andzani-Singh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andzani-Singh&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
-</p>
+
 
 ---
 
